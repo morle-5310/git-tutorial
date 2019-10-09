@@ -10,5 +10,3 @@
       print("%d\n",i)
     end 
   end 
-  return 0;
-} 
