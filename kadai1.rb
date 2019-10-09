@@ -7,6 +7,6 @@
     elsif (i % 5 == 0) then 
       print("Buzz\n")
     else 
-      print("%d\n",i)
+      print("\n",i)
     end
   end
